@@ -29,12 +29,12 @@ This guide will walk you through the steps to deploy the E-commerce project on a
 
 3. Clone the repository containing the E-commerce Microservices project:
     ```
-    git clone https://github.com/mariusforreal/ecommerce-micro-service-web.git
+    git clone https://github.com/hyango2002/e-commerce-micro-service-web.git
     ```
 
 4. Copy the front-end files to the Nginx web root directory:
     ```
-    sudo cp -R ecommerce-micro-services/front-end/* /usr/share/nginx/html/
+    sudo cp -R e-commerce-micro-services/front-end/* /usr/share/nginx/html/
     ```
 5. Start the Nginx service:
     ```
