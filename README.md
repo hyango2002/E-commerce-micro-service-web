@@ -31,12 +31,12 @@ This guide will walk you through the steps to deploy the E-commerce Micro servic
 
 1. Clone the repository containing the E-commerce Microservices project:
     ```
-    git clone https://github.com/hyango2002/ecommerce-micro-service-web.git
+    git clone https://github.com/hyango2002/e-commerce-micro-service-web.git
     ```
 
 2. Change directory to the project:
     ```
-    cd ecommerce-micro-services-web
+    cd e-commerce-micro-services-web
     ```
 3. Build docker image:
     ```
